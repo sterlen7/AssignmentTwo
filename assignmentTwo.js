@@ -70,4 +70,7 @@ console.log(checkNumber(hisNumber))
 
 //12 map concept
 
-//13 
+//13
+
+// 18 book object 
+
